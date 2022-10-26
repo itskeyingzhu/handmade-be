@@ -4,8 +4,8 @@
 
 ## HANDMADE 前端連結
 
-- ## [handmade-front-end](https://github.com/angushyx/handmade)
-- ## [handmade-backend](https://github.com/angushyx/handmade-b)
+- ## [handmade-front-end](https://github.com/itskeyingzhu/handmade-fe)
+- ## [handmade-backend](https://github.com/itskeyingzhu/handmade-be)
 
 # 專案環境
 
